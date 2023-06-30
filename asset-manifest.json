@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/price-hacker/static/css/main.e89271c0.css",
+    "main.js": "/price-hacker/static/js/main.d4f71b68.js",
+    "static/js/787.227f1831.chunk.js": "/price-hacker/static/js/787.227f1831.chunk.js",
+    "index.html": "/price-hacker/index.html",
+    "main.e89271c0.css.map": "/price-hacker/static/css/main.e89271c0.css.map",
+    "main.d4f71b68.js.map": "/price-hacker/static/js/main.d4f71b68.js.map",
+    "787.227f1831.chunk.js.map": "/price-hacker/static/js/787.227f1831.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e89271c0.css",
+    "static/js/main.d4f71b68.js"
+  ]
+}
